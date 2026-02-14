@@ -1,0 +1,438 @@
+placeholder
+
+
+1. Very Low Risk (~2-5%)
+Young, healthy female, high max heart rate, no pain.
+
+Age: 29
+
+Sex: Female (0)
+
+Chest Pain Type: Atypical Angina (1)
+
+Resting BP: 110
+
+Cholesterol: 165
+
+Fasting BS: False
+
+Rest ECG: Normal (0)
+
+Max HR: 185
+
+Ex. Angina: No
+
+Oldpeak: 0.0
+
+Slope: Upsloping (0)
+
+Major Vessels: 0
+
+Thal: Normal (1)
+############################################
+2. Low Risk (~10%)
+Young male, slightly higher cholesterol but very healthy otherwise.
+
+Age: 34
+
+Sex: Male (1)
+
+Chest Pain Type: Non-anginal (2)
+
+Resting BP: 118
+
+Cholesterol: 210
+
+Fasting BS: False
+
+Rest ECG: Normal (0)
+
+Max HR: 175
+
+Ex. Angina: No
+
+Oldpeak: 0.0
+
+Slope: Upsloping (0)
+
+Major Vessels: 0
+
+Thal: Normal (1)
+############################################    
+3. Low Risk (~15%)
+Middle-aged female, good stats, atypical pain.
+
+Age: 45
+
+Sex: Female (0)
+
+Chest Pain Type: Atypical Angina (1)
+
+Resting BP: 122
+
+Cholesterol: 205
+
+Fasting BS: False
+
+Rest ECG: Normal (0)
+
+Max HR: 168
+
+Ex. Angina: No
+
+Oldpeak: 0.2
+
+Slope: Upsloping (0)
+
+Major Vessels: 0
+
+Thal: Normal (1)
+############################################
+4. Low-Medium Risk (~25%)
+Older female, healthy but slight ST depression.
+
+Age: 55
+
+Sex: Female (0)
+
+Chest Pain Type: Non-anginal (2)
+
+Resting BP: 130
+
+Cholesterol: 240
+
+Fasting BS: False
+
+Rest ECG: ST-T Abnormal (1)
+
+Max HR: 155
+
+Ex. Angina: No
+
+Oldpeak: 0.6
+
+Slope: Flat (1)
+
+Major Vessels: 0
+
+Thal: Normal (1)
+############################################
+5. Medium Risk (~35%)
+Male, asymptomatic pain, but high cholesterol and BP.
+
+Age: 48
+
+Sex: Male (1)
+
+Chest Pain Type: Asymptomatic (3)
+
+Resting BP: 135
+
+Cholesterol: 265
+
+Fasting BS: False
+
+Rest ECG: Normal (0)
+
+Max HR: 150
+
+Ex. Angina: No
+
+Oldpeak: 0.8
+
+Slope: Flat (1)
+
+Major Vessels: 0
+
+Thal: Fixed Defect (2)
+############################################
+6. Medium-High Risk (~45%)
+Male, typical angina, some exercise angina.
+
+Age: 52
+
+Sex: Male (1)
+
+Chest Pain Type: Typical Angina (0)
+
+Resting BP: 128
+
+Cholesterol: 230
+
+Fasting BS: True
+
+Rest ECG: Normal (0)
+
+Max HR: 142
+
+Ex. Angina: Yes
+
+Oldpeak: 1.0
+
+Slope: Flat (1)
+
+Major Vessels: 0
+
+Thal: Fixed Defect (2)
+############################################
+7. Borderline High (~55%)
+Female, 60s, high BP, 1 vessel blocked.
+
+Age: 61
+
+Sex: Female (0)
+
+Chest Pain Type: Typical Angina (0)
+
+Resting BP: 145
+
+Cholesterol: 280
+
+Fasting BS: False
+
+Rest ECG: LV Hypertrophy (2)
+
+Max HR: 138
+
+Ex. Angina: Yes
+
+Oldpeak: 1.2
+
+Slope: Flat (1)
+
+Major Vessels: 1
+
+Thal: Normal (1)
+############################################
+8. High Risk (~65%)
+Male, 58, high cholesterol, exercise angina, reversible defect.
+
+Age: 58
+
+Sex: Male (1)
+
+Chest Pain Type: Non-anginal (2)
+
+Resting BP: 140
+
+Cholesterol: 255
+
+Fasting BS: True
+
+Rest ECG: ST-T Abnormal (1)
+
+Max HR: 135
+
+Ex. Angina: Yes
+
+Oldpeak: 1.8
+
+Slope: Flat (1)
+
+Major Vessels: 1
+
+Thal: Reversable Defect (3)
+############################################
+9. High Risk (~72%)
+Older male, classic symptoms, moderate ST depression.
+
+Age: 64
+
+Sex: Male (1)
+
+Chest Pain Type: Typical Angina (0)
+
+Resting BP: 150
+
+Cholesterol: 270
+
+Fasting BS: False
+
+Rest ECG: LV Hypertrophy (2)
+
+Max HR: 128
+
+Ex. Angina: Yes
+
+Oldpeak: 2.2
+
+Slope: Downsloping (2)
+
+Major Vessels: 1
+
+Thal: Reversable Defect (3)
+
+############################################
+10. Very High Risk (~80%)
+Senior male, 2 vessels blocked, high oldpeak.
+
+Age: 68
+
+Sex: Male (1)
+
+Chest Pain Type: Asymptomatic (3)
+
+Resting BP: 160
+
+Cholesterol: 290
+
+Fasting BS: True
+
+Rest ECG: ST-T Abnormal (1)
+
+Max HR: 120
+
+Ex. Angina: Yes
+
+Oldpeak: 2.8
+
+Slope: Downsloping (2)
+
+Major Vessels: 2
+
+Thal: Reversable Defect (3)
+############################################
+11. Very High Risk (~85%)
+Female, 70, severe hypertension and ST depression.
+
+Age: 70
+
+Sex: Female (0)
+
+Chest Pain Type: Typical Angina (0)
+
+Resting BP: 170
+
+Cholesterol: 310
+
+Fasting BS: True
+
+Rest ECG: LV Hypertrophy (2)
+
+Max HR: 115
+
+Ex. Angina: Yes
+
+Oldpeak: 3.2
+
+Slope: Downsloping (2)
+
+Major Vessels: 2
+
+Thal: Reversable Defect (3)
+############################################
+12. Critical Risk (~90%)
+Male, 75, 3 vessels blocked, very low max HR.
+
+Age: 75
+
+Sex: Male (1)
+
+Chest Pain Type: Typical Angina (0)
+
+Resting BP: 165
+
+Cholesterol: 320
+
+Fasting BS: True
+
+Rest ECG: LV Hypertrophy (2)
+
+Max HR: 108
+
+Ex. Angina: Yes
+
+Oldpeak: 3.8
+
+Slope: Downsloping (2)
+
+Major Vessels: 3
+
+Thal: Reversable Defect (3)
+############################################
+13. Critical Risk (~93%)
+Similar to above but with higher cholesterol and ST depression.
+
+Age: 72
+
+Sex: Male (1)
+
+Chest Pain Type: Asymptomatic (3)
+
+Resting BP: 175
+
+Cholesterol: 340
+
+Fasting BS: True
+
+Rest ECG: ST-T Abnormal (1)
+
+Max HR: 105
+
+Ex. Angina: Yes
+
+Oldpeak: 4.2
+
+Slope: Downsloping (2)
+
+Major Vessels: 3
+
+Thal: Reversable Defect (3)
+############################################
+14. Extreme Risk (~96%)
+Very high oldpeak, severe symptoms.
+
+Age: 67
+
+Sex: Male (1)
+
+Chest Pain Type: Typical Angina (0)
+
+Resting BP: 180
+
+Cholesterol: 360
+
+Fasting BS: True
+
+Rest ECG: LV Hypertrophy (2)
+
+Max HR: 100
+
+Ex. Angina: Yes
+
+Oldpeak: 5.0
+
+Slope: Downsloping (2)
+
+Major Vessels: 3
+
+Thal: Reversable Defect (3)
+############################################
+15. Extreme Risk (~98-99%)
+Maxed out risk factors.
+
+Age: 77
+
+Sex: Male (1)
+
+Chest Pain Type: Typical Angina (0)
+
+Resting BP: 190
+
+Cholesterol: 400
+
+Fasting BS: True
+
+Rest ECG: LV Hypertrophy (2)
+
+Max HR: 95
+
+Ex. Angina: Yes
+
+Oldpeak: 6.0
+
+Slope: Downsloping (2)
+
+Major Vessels: 3
+
+Thal: Reversable Defect (3)

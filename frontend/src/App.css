@@ -1,0 +1,40 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background: radial-gradient(circle at top right, #1e293b, #0f172a);
+}
+
+.App-header {
+    margin-bottom: 3rem;
+}
+
+.App-header h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(90deg, #f87171, #ef4444);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.App-header p {
+    color: #94a3b8;
+    font-size: 1.1rem;
+}
+
+main {
+    width: 100%;
+    max-width: 800px;
+    flex: 1;
+}
+
+footer {
+    margin-top: 4rem;
+    padding: 2rem;
+    color: #475569;
+    font-size: 0.9rem;
+}
